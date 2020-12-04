@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+django
+djangorestframework
+django-filter
+markdown
+ipython
+pdbpp
